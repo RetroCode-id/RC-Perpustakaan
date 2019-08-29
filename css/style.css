@@ -1,0 +1,9 @@
+ 
+    *{
+        text-transform: capitalize;
+      }
+  
+      .btn,
+      .badge{
+      border-radius: 0;
+      }
